@@ -1,5 +1,5 @@
 # Physics HALO
-*A weekend full of physics brought to you by the Society of Physics Students at UT Dallasy*
+*A weekend full of physics brought to you by the Society of Physics Students at UT Dallas*
 
 This workshop will be a jump start in Python 3 programming for students interested in applying it to scientific projects. Part 1 of the workshop will introduce Python 3 basics, including data structures, loops, and user-defined functions. Part 2 will be dedicated to guided examples using common Python 3 packages.
 
